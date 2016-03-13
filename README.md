@@ -1,10 +1,18 @@
 # bel-video-element
 A simple video element with bel
 
+![bel-video-element](https://cloud.githubusercontent.com/assets/1183541/13726243/b4e02c2e-e912-11e5-813f-59d435732d28.gif)
+
+### Install
+
+```
+$ npm i bel-video-element --save
+```
+
 ### Usage
 
 ```JavaScript
-var Video = require('../index.js')
+var Video = require('bel-video-element')
 var bel = require('bel')
 
 function render () {
